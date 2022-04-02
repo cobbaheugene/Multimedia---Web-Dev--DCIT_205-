@@ -1,6 +1,6 @@
 // Conditional Statements //
 
-//Declare the variable
+// ?  Declare the variable
 var x = 7
 
 if(x==7){
