@@ -32,10 +32,10 @@ else{
 // Switch is another conditional stement for testing for multiple statement 
 // **assignment** read on switches and write a program
 
-const colours = 'red';
+const colours = 'pink';
 switch (colours) {
     case 'pink':
-     console.log('Baby girls');;
+     console.log('Baby girls colour');;
      break ;
     case 'Blue' :
      console.log('Chealse football teeam');
