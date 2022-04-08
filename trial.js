@@ -40,14 +40,14 @@ switch (colours) {
     case "Blue" :
      console.log("Chealse football teeam");
      break ;
-    case 'black' :
-     console.log ('Official colour');
+    case "black":
+     console.log ("Official colour");
      break ;
-    case 'dodger blue' :
-     console.log ('Tinas favorite colour')
+    case "dodger blue":
+     console.log ("Tinas favorite colour")
      break ;
     default :
-     console.log('Display red');
+     console.log("Display red");
      break;
 }
 
